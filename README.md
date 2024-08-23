@@ -47,7 +47,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://www.svgrepo.com/show/387852/instagram-one.svg" alt="bshrestha94" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="bshrestha94" height="30" width="40" /></a>
 <a href="https://instagram.com/quantumshutterbug" target="blank"><img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="quantumshutterbug" height="30" width="40" /></a>
 </p>
 
