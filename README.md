@@ -36,8 +36,13 @@
 </p>
 <br>
 
+<pre style="font-size: 1.17em; font-weight: bold;">
+    |
+----------------------------
+</pre>
+
 <h3 style="margin-bottom: 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          </h3>
-<h3 style="margin-top: 0;">----------------------------          </h3>
+<h3 style="margin-top: 0;"> ----------------------------          </h3>
 
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" /></a>
