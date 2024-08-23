@@ -33,9 +33,9 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="padding-right:10px;" /></a>
 
-
-
 </p>
+
+<br><br>
 
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" /></a>
