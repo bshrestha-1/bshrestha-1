@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20928
-Fork on GitHub6463
 <h1 align="center">Hi 👋, I'm Bijay Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
