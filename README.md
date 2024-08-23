@@ -37,6 +37,10 @@
 
 <br><br>
 
+<h3 align="left">    |          </h3>
+<br><br>
+<h3 align="left">    |          </h3>
+<br><br>
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;" /></a>
