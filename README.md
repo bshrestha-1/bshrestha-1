@@ -2,7 +2,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/448234/linkedin.svg" style="padding-right:10px;" />][linkedin.com/in/bshrestha94]
+[![linkedin](https://www.svgrepo.com/show/448234/linkedin.svg" style="padding-right:10px)][linkedin.com/in/bshrestha94]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src=";" />]
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
