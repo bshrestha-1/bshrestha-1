@@ -22,7 +22,7 @@ Languages:
 <img align="left" alt= "SAS" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Latex" width="26px" src="https://www.svgrepo.com/show/377983/latex.svg" style="padding-right:10px;" />
-</p>
+
 Libraries: 
 <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
@@ -31,7 +31,6 @@ Libraries:
 <img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;" />
 <img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
 
-</p>
 Other:
 <img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="padding-right:10px;" />
 <img align="left" alt= "Docker" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
