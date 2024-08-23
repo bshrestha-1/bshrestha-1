@@ -36,7 +36,7 @@
 </p>
 <br>
 
-<h3 style="margin-bottom: 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      
+<h3 style="margin-bottom: 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  <br>    
 ----------------------------  </h3>
 <h3 style="margin-top: 0;"> ----------------------------          </h3>
 
