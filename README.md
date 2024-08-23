@@ -5,11 +5,7 @@
 
 - 📫 How to reach me **bskrb94@gmail.com,**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bshrestha94" height="30" width="40" /></a>
-<a href="https://instagram.com/quantumshutterbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quantumshutterbug" height="30" width="40" /></a>
-</p>
+
 
 
 
@@ -44,4 +40,11 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img align="left" alt="Numpy" width="26px" src="https://www.svgrepo.com/show/373938/numpy.svg" style="padding-right:10px;" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;" /></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" /></a>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bshrestha94" height="30" width="40" /></a>
+<a href="https://instagram.com/quantumshutterbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quantumshutterbug" height="30" width="40" /></a>
+</p>
 
