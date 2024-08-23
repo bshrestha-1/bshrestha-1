@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bijay Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">Physicist| Data Scientist | Instructor</h3>
 
 - 🔭 I’m currently working on [Labriynth](https://github.com/bshrestha-1/Labyrinth)
 
-- 📫 How to reach me **bskrb94@gmail.com,**
 
 
 
