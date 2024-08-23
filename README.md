@@ -26,14 +26,7 @@
 <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"> <img align="left" alt= "SAS" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img align="left" alt="Latex" width="26px" src="https://www.svgrepo.com/show/377983/latex.svg" style="padding-right:10px;" /></a>
-                                        
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Scikit Learn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="padding-right:10px;" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img align="left" alt="Numpy" width="26px" src="https://www.svgrepo.com/show/373938/numpy.svg" style="padding-right:10px;" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" /></a>
-
+                                   
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="left" alt= "Docker" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img align="left" alt="Gitlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" /> </a>
@@ -43,4 +36,11 @@
 
 
 </p>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Scikit Learn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="padding-right:10px;" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img align="left" alt="Numpy" width="26px" src="https://www.svgrepo.com/show/373938/numpy.svg" style="padding-right:10px;" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" /></a>
 
