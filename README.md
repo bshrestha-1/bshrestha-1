@@ -5,6 +5,8 @@
 
 
 - 🔭 I’m currently working on [Labriynth](https://github.com/bshrestha-1/Labyrinth)
+- 🌱 I’m currently learning AWS, GenAI, Mindfulness
+- 
 
 
 
@@ -50,4 +52,6 @@
 <a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="bshrestha94" height="30" width="40" /></a>
 <a href="https://instagram.com/quantumshutterbug" target="blank"><img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="quantumshutterbug" height="30" width="40" /></a>
 </p>
+
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bshrestha-1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
