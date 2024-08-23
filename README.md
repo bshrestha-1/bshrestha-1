@@ -41,6 +41,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;" /></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" /></a>
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
