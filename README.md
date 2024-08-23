@@ -3,7 +3,7 @@
 
 I'm Bijay, originally from Nepal and currently living in the USA. I'm a physicist with extensive experience in both academic and research settings. I'm in the final stages of completing my Ph.D. in Physics at the University of Oklahoma, where I've had the opportunity to work on projects in collaboration with CERN. My research has focused on building data science pipelines and optimizing algorithms for high-energy physics experiments. Outside work, I’m into board games, hiking, and photography. Cooking and painting are big for me, too—I enjoy connecting with people through good food and art.
 
->> Here, I use GitLab for my work-related projects, so this GitHub is primarily where I work on my passion projects. 
+>> I use GitLab for my work-related projects, so this GitHub is primarily where I work on my passion projects. 
 
 - 🔭 I’m currently working on [Labriynth](https://github.com/bshrestha-1/Labyrinth)
 - 🌱 I’m currently learning AWS, GenAI, Mindfulness
