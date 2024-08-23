@@ -34,7 +34,7 @@
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="padding-right:10px;" /></a>
 
 </p>
-
+<br>
 
 <h3 align="left">    |          </h3>
 <h3 align="left">----------------------------          </h3>
