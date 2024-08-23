@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bijay Shrestha</h1>
 <h3 align="center">Physicist | Data Scientist | Instructor</h3>
 
+
+
+
 - 🔭 I’m currently working on [Labriynth](https://github.com/bshrestha-1/Labyrinth)
 
 
@@ -44,7 +47,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bshrestha94" height="30" width="40" /></a>
-<a href="https://instagram.com/quantumshutterbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quantumshutterbug" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://www.svgrepo.com/show/437922/linkedin.svg" alt="bshrestha94" height="30" width="40" /></a>
+<a href="https://instagram.com/quantumshutterbug" target="blank"><img align="center" src="https://www.svgrepo.com/show/357909/instagram-alt.svg" alt="quantumshutterbug" height="30" width="40" /></a>
 </p>
 
