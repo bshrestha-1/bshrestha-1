@@ -5,7 +5,7 @@ I'm Bijay, originally from Nepal and currently living in the USA. I'm a physicis
 
 >> I use GitLab for my work-related projects, so this GitHub is primarily where I work on my weekend passion projects. 
 
-- 🔭 I’m currently working on [Labriynth](https://github.com/bshrestha-1/Labyrinth)
+- 🔭 I’m currently working on [Labriynth](https://github.com/bshrestha-1/Labyrinth) and [Linkedin_job_recommendation](https://github.com/bshrestha-1/Linkedin_job_recommendation)
 - 🌱 I’m currently learning AWS, GenAI, Mindfulness
 - ⚡ Fun fact: I am currently making a new board game 
 
