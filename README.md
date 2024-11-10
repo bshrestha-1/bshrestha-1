@@ -15,7 +15,7 @@ That’s Benzo, my trusty sidekick and the real brain behind this operation. Ben
 
 
 
-
+Feel free to explore, fork, star, or just say hi. Thanks for stopping by!
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,6 +60,5 @@ That’s Benzo, my trusty sidekick and the real brain behind this operation. Ben
 <a href="https://instagram.com/quantumshutterbug" target="blank"><img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="quantumshutterbug" height="30" width="40" /></a>
 </p>
 
-Feel free to explore, fork, star, or just say hi. Thanks for stopping by!
 
  <!--<<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bshrestha-1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
