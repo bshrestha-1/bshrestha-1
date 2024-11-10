@@ -31,6 +31,7 @@ That’s Benzo, my trusty sidekick and the real brain behind this operation. Ben
 <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"> <img align="left" alt= "SAS" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img align="left" alt="Hadoop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" style="padding-right:10px;"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img align="left" alt="Spark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" style="padding-right:10px;"/></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img align="left" alt="Latex" width="26px" src="https://www.svgrepo.com/show/377983/latex.svg" style="padding-right:10px;" /></a>
                                    
 
