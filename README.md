@@ -9,13 +9,13 @@ Welcome to my corner of GitHub! I'm Bijay, originally from Nepal and currently l
 - 🌱 I’m currently learning AWS, GenAI, Mindfulness
 - ⚡ Fun fact: I am currently making a new board game
 
-Who's that cool pup? 🐶
+🐶 Who's that cool pup? 
 
 That’s Benzo, my trusty sidekick and the real brain behind this operation. Benzo’s here to remind us that no matter how complex the problem, a nap is probably the solution.
 
 
 
-Feel free to explore, fork, star, or just say hi. Thanks for stopping by!
+🤝 Feel free to explore, fork, star, or just say hi. Thanks for stopping by!
 
 
 <h3 align="left">Languages and Tools:</h3>
