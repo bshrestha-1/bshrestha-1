@@ -6,7 +6,7 @@ Welcome to my corner of GitHub! I'm Bijay, originally from Nepal and currently l
 >> I use GitLab for my work-related projects, so this GitHub is primarily where I work on my weekend passion projects. 
 
 - 🔭 I’m currently working on [Labriynth](https://github.com/bshrestha-1/Labyrinth) and [Linkedin_job_recommendation](https://github.com/bshrestha-1/Linkedin_job_recommendation)
-- 🌱 I’m currently learning AWS, GenAI, Mindfulness
+- 🌱 I’m currently learning AWS, Power Bi, Mindfulness
 - ⚡ Fun fact: I am currently making a new board game
 
 🐶 Who's that cool pup? 
