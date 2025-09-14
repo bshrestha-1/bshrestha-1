@@ -57,7 +57,7 @@ That’s Benzo, my trusty sidekick and the real brain behind this operation. Ben
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bshrestha94" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="bshrestha94" height="30" width="40" /></a>
-<a href="https://www.instagram.com/quantum_shutterbug/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="quantumshutterbug" height="30" width="40" /></a>
+<a href="https://www.instagram.com/quantum_shutterbug/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="quantumshutterbug" height="30" width="40" /></a>
 </p>
 
 
